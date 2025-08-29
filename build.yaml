@@ -1,0 +1,5 @@
+---
+include:
+  - board: cosmos_lemon_wireless
+    shield: cosmotyl
+    snippet: zmk-usb-logging
